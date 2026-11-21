@@ -1,36 +1,34 @@
-🚀 **About Us**  
-Jifunze Sasa is an innovative learning hub dedicated to providing practical, hands-on crash courses across various tech domains. Our motto, "Learn by Doing," is at the heart of everything we create and curate. We believe that the best way to master a skill is through active engagement and real-world application.
+## Jifunze Sasa
 
-> Jifunze Sasa, meaning `"Learn Now"` in Swahili, embodies our mission to offer immediate, hands-on learning experiences in the tech world.
- 
-🔍 **Our Focus**  
-We specialize in:
-- **Web Development**: Dive deep into HTML, CSS, JavaScript, React, and more.
-- **Backend Technologies**: Master Python, Node.js, PHP (Laravel), and database management.
-- **Mobile App Development**: Build stunning apps with Flutter, React Native, and Swift.
-- **DevOps & Cloud**: Explore AWS, Docker, and Kubernetes.
-- **Data Science & AI**: Get hands-on with Python, R, TensorFlow, and machine learning techniques.
+*Jifunze kwa vitendo, anza sasa.* Learn by doing, start now.
 
-🌍 **Community-Driven Learning**  
-Join our vibrant community of learners and experts. Collaborate on projects, share knowledge, and get real-time feedback.
+Jifunze Sasa ("Learn Now" in Swahili) is a set of hands-on starter projects: small repositories that teach a language or tool by building something with it.
 
-💡 **Projects & Challenges**  
-Each course includes capstone projects and challenges, designed to test and refine your skills in a practical setting.
+**Languages:**
+- [Go](https://github.com/jifunzesasa/go-basics)
+- [Rust](https://github.com/jifunzesasa/rust-basics)
+- C++ ([basics](https://github.com/jifunzesasa/cpp-basics) and [examples](https://github.com/jifunzesasa/cpp-examples))
+- [Haskell](https://github.com/jifunzesasa/haskell-basics)
+- [Lua](https://github.com/jifunzesasa/lua-scripting)
+- [Assembly](https://github.com/jifunzesasa/asm-basics)
+- [Bash](https://github.com/jifunzesasa/bash-basics)
+- [Python](https://github.com/jifunzesasa/python-basics)
+- [PHP](https://github.com/jifunzesasa/php-basics)
+- [Nuru](https://github.com/jifunzesasa/nuru-basics), the Swahili programming language
 
-📚 **Curated Resources**  
-Gain access to an extensive library of resources, including tutorials, code snippets, and best practices.
+**Web and backend:**
+- [Node.js](https://github.com/jifunzesasa/node-basics)
+- [Sending email from Node.js](https://github.com/jifunzesasa/node-mailer-basics)
+- [TypeScript with React](https://github.com/jifunzesasa/ts-react)
+- [Sass](https://github.com/jifunzesasa/learning-sass)
+- [Spring Boot](https://github.com/jifunzesasa/spring-boot-app)
+- Yii 2 ([basic](https://github.com/jifunzesasa/basics-yii) and [advanced](https://github.com/jifunzesasa/yii-advanced))
 
-📈 **Progress Tracking**  
-Monitor your learning journey with our progress tracker and earn badges and certificates as you complete courses.
+**Data and tools:**
+- [brain.js](https://github.com/jifunzesasa/brainjs-basics)
+- [OrientDB](https://github.com/jifunzesasa/orientdb-basics)
+- [Vagrant](https://github.com/jifunzesasa/vagrant-basics)
 
-🤝 **Join Us**  
-Whether you're a beginner or looking to sharpen your skills, Jifunze Sasa is the place for you. Let's embark on this journey of learning, building, and growing together!
+The examples use the tool versions that were current when they were written.
 
-🔗 **Connect With Us**  
-- GitHub: [@JifunzeSasa](https://github.com/JifunzeSasa)
-
-
-
----
-
-*Jifunze Sasa - Learn, Build, Grow.*
+Website: [jifunzesasa.github.io](https://jifunzesasa.github.io/)
